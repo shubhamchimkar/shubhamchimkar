@@ -9,7 +9,7 @@ I am a passionate Full Stack Developer with a strong foundation in both front-en
 🌐 Front-End: HTML, CSS, JavaScript, React
 💻 Back-End: Node.js, Express.js
 🗄️ Databases: MongoDB, SQL
-🛠️ Tools: Git, GitHub, Postman
+🛠️ Tools: Git, GitHub
 
 📂 Projects:
 On this profile, you will find a variety of repositories demonstrating my expertise in front-end and back-end development. I take on challenges with creativity and precision, always aiming to learn and apply new technologies.
