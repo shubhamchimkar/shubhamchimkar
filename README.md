@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/shubham-chimkar/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=gmail&logoColor=white)](mailto:shubhamchimkar04@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/shubham-chimkar?label=Follow&style=social)](https://github.com/shubham-chimkar)
+[![GitHub](https://img.shields.io/github/followers/shubhamchimkar?label=Follow&style=social)](https://github.com/shubhamchimkar)
 
 ---
 
